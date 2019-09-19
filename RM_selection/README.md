@@ -1,0 +1,1 @@
+Here we look at modeling the effect of the redMaPPer selection on lensing directly.
